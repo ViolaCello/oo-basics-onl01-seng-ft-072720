@@ -8,6 +8,9 @@ class Shoe
     @brand=brand
   end
   
-  
+  def cobble(self)
+    puts "The shoe has been repaired."
+    condition = "new"
+end
   
 end
