@@ -1,2 +1,7 @@
 # Make your shoe class here!
-class 
+class Shoe
+  
+  df 
+  
+  
+end
